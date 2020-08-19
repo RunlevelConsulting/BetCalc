@@ -8,6 +8,7 @@ This is a browser-based tool that works on pretty much any website, it's unobtru
 
 Simply fill the odds you're working with into the text fields, enter how much you're willing to bet (optional) and select either 'Cover' or 'Dutch' to generate the stakes needed to place a Cover or Dutched bet.
 <br><br>
+
 Installation
 -------------
 
@@ -20,6 +21,7 @@ Installation
 javascript:function a(){script=document.createElement("script");script.src="https://rawgit.com/RunlevelConsulting/BetCalc/master/betcalc.js";document.getElementsByTagName('HEAD')[0].appendChild(script);}a();
 ```
 <br>
+
 Betting Methods
 -------------
 
@@ -51,6 +53,7 @@ Dutching allows you to spread potential profits across multiple runners and rece
 
 In this example, if any runner goes on to win, you'll make a profit of about £48. This method usually means you win money more often, but because it requires you to back multiple runners, profits are lower than Cover bets.
 <br><br>
+
 Other Information
 -------------
 - Assuming you've completed the steps above correctly, this should work on all modern browsers.
